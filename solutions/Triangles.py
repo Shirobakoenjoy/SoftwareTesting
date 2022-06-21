@@ -44,7 +44,7 @@ def check(a, b, c):
         print("锐角三角形")
         return 5
     elif angle == 2:
-        print("直角三角形")
+        print("钝角三角形")
         return 6
 
 
